@@ -5,28 +5,28 @@
 [Escreva aqui uma breve introdução sobre você, sua formação, interesses e projetos. Mencione sua trajetória educacional, profissional e qualquer canal ou perfil onde você compartilha conhecimento.]
 
 <p align="left">
-    <a href="https://www.instagram.com/leandronunes.dev/">
+    <a href="https://www.instagram.com/[seu-usuario-instagram]/">
         <img
             alt="Instagram"
             title="Me siga no Instagram"
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/devleandronunes/">
+    <a href="https://www.linkedin.com/in/[seu-usuario-linkedin]/">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://linktr.ee/leandronunes.dev">
+    <a href="https://linktr.ee/[seu-usuario-linktree]">
         <img
             alt="Linktree"
             title="Acesse meu Linktree"
             src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
         />
     </a>
-    <a href="mailto:leandron7090@gmail.com">
+    <a href="https://[seu-portfolio].com">
         <img
             alt="Gmail"
             title="Contate-me no Gmail"
@@ -159,9 +159,9 @@
 <p>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=devleandronunes&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img align=right height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU3ZzJiamJkZDY0cWZoOGsxOXl6NHZzdG5vd2lhOXN4d28zZGljZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBDzqHidthiHbeus6B/giphy.gif"  />
+  <img  align=right height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU3ZzJiamJkZDY0cWZoOGsxOXl6NHZzdG5vd2lhOXN4d28zZGljZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBDzqHidthiHbeus6B/giphy.gif" width="420px"/>
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devleandronunes&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devleandronunes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 </p>
