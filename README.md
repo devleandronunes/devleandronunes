@@ -162,6 +162,6 @@
   <img align=right height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTU3ZzJiamJkZDY0cWZoOGsxOXl6NHZzdG5vd2lhOXN4d28zZGljZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KBDzqHidthiHbeus6B/giphy.gif"  />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devleandronunes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devleandronunes&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 </p>
