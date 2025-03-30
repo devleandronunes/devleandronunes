@@ -4,15 +4,15 @@
 
 📌 Sobre mim
 
--🎓 Universitário de Analise e Desenvolvimento de Sistemas (Período: 3/5)
--💻 Desenvolvedor Web com foco no Front-End
--🔒 Entusiasta de Cibersegurança e Inteligência Artificial
--🎮 Amante de games, esportes e filmes
--📍 Coordenador de Desenvolvimento na Prefeitura de Candeias do Jamari
--🏗️ Desenvolvendo e Aprimorando o site institucional da prefeitura
--🔧 Criando projetos de impacto, como Hackathons Comunitários, E-commerces e Sistemas para Pequenos Négocios
--🛠️ Foco em desempenho, acessibilidade, transparência e experiência do usuário
--🚀 Explorando novas tecnologias e tendências para aprimorar habilidades
+-🎓 Universitário de Analise e Desenvolvimento de Sistemas (Período: 3/5) <br/>
+-💻 Desenvolvedor Web com foco no Front-End <br/>
+-🔒 Entusiasta de Cibersegurança e Inteligência Artificial <br/>
+-🎮 Amante de games, esportes e filmes <br/>
+-📍 Coordenador de Desenvolvimento na Prefeitura de Candeias do Jamari <br/>
+-🏗️ Desenvolvendo e Aprimorando o site institucional da prefeitura <br/>
+-🔧 Criando projetos de impacto, como Hackathons Comunitários, E-commerces e Sistemas para Pequenos Négocios <br/>
+-🛠️ Foco em desempenho, acessibilidade, transparência e experiência do usuário <br/>
+-🚀 Explorando novas tecnologias e tendências para aprimorar habilidades <br/>
 
 <p align="left">
     <a href="https://www.instagram.com/[seu-usuario-instagram]/">
