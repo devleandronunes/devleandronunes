@@ -26,7 +26,7 @@
             src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
         />
     </a>
-    <a href="https://mailto:leandron7090@gmail.com">
+    <a href="mailto:leandron7090@gmail.com">
         <img
             alt="Gmail"
             title="Contate-me no Gmail"
