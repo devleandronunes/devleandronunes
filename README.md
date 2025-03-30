@@ -2,7 +2,17 @@
 
 **`Web Developer`**
 
-[Escreva aqui uma breve introdução sobre você, sua formação, interesses e projetos. Mencione sua trajetória educacional, profissional e qualquer canal ou perfil onde você compartilha conhecimento.]
+📌 Sobre mim
+
+-🎓 Universitário de Analise e Desenvolvimento de Sistemas (Período: 3/5)
+-💻 Desenvolvedor Web com foco no Front-End
+-🔒 Entusiasta de Cibersegurança e Inteligência Artificial
+-🎮 Amante de games, esportes e filmes
+-📍 Coordenador de Desenvolvimento na Prefeitura de Candeias do Jamari
+-🏗️ Desenvolvendo e Aprimorando o site institucional da prefeitura
+-🔧 Criando projetos de impacto, como Hackathons Comunitários, E-commerces e Sistemas para Pequenos Négocios
+-🛠️ Foco em desempenho, acessibilidade, transparência e experiência do usuário
+-🚀 Explorando novas tecnologias e tendências para aprimorar habilidades
 
 <p align="left">
     <a href="https://www.instagram.com/[seu-usuario-instagram]/">
