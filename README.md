@@ -12,7 +12,7 @@
 -🏗️ Desenvolvendo e Aprimorando o site institucional da prefeitura <br/>
 -🔧 Criando projetos de impacto, como Hackathons Comunitários, E-commerces e Sistemas para Pequenos Négocios <br/>
 -🛠️ Foco em desempenho, acessibilidade, transparência e experiência do usuário <br/>
--🚀 Explorando novas tecnologias e tendências para aprimorar habilidades <br/>
+-🚀 Explorando novas tecnologias e tendências para aprimorar habilidades <br/><br/>
 
 <p align="left">
     <a href="https://www.instagram.com/[seu-usuario-instagram]/">
